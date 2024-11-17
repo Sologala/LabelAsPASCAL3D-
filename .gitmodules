@@ -1,0 +1,3 @@
+[submodule "submodules/imgui-app-base"]
+	path = submodules/imgui-app-base
+	url = https://github.com/Sologala/imgui-app-base.git
